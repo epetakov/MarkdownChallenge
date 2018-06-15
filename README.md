@@ -9,15 +9,19 @@ Digital Multimedia Challenge 2
 <p>Link to the other markdown page</p>
 <p>Link to an image that is a file in the directory</p>
 <p>Link to an image located on the web</p>
-<p>Code block</p>
-<p><code>
-  "```javascript
+
+<div class="highlighter-rouge">
+<div class="highlight">
+  <pre class="highlight">
+  <code>
+  ```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```"</code></p>
+```
+</code></pre></div></div>
 
 
 <p><blockquote>Here is a block quote</blockquote></p>
