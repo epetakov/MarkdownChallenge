@@ -57,3 +57,5 @@ Table
 
 <hr>
 
+![](http://commonmark.org/help/images/favicon.png)
+
