@@ -8,9 +8,8 @@ Digital Multimedia Challenge 2
 
 [The other markdown page](http://www.github.com/epetakov/MarkdownChallenge/README2.md)
 
-An image that is a file in the directory  
-![alt text][IChing]
-[IChing]: MarkdownChallenge/IChing.jpg "test"
+An image that is a file in the directory:    
+![alt text](IChing.jpg)
 An image from the web:   
 ![](http://commonmark.org/help/images/favicon.png)  
 
