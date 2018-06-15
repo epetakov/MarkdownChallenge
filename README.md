@@ -2,7 +2,7 @@
 Digital Multimedia Challenge 2
 
 
-<h2>H2 header</h2>
+# H2 header#
 <h4>H4 header</h4>
 <p><a href="http://www.etymonline.com">My favorite website</a></p>
 
@@ -34,6 +34,10 @@ function fancyAlert(arg) {
   
   </ul></p>
 <p>Numbered list</p>
+1.
+2.
+3.
+
 
 Table
 <table>
