@@ -6,14 +6,14 @@ Digital Multimedia Challenge 2
 #### H4 header  
 [My favorite website](http://www.etymonline.com/)  
 
-[The other markdown page](http://www.github.com/epetakov/MarkdownChallenge/README2.md)
+[The other markdown page](README2.md)
 
 An image that is a file in the directory:    
 ![alt text](IChing.jpg)
 An image from the web:   
 ![](http://commonmark.org/help/images/favicon.png)  
 
-
+Some javascript:  
 ```javascript  
 function fancyAlert(arg) {  
   if(arg) {  
@@ -43,9 +43,9 @@ function fancyAlert(arg) {
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-**Bolded text**
-*Italicized text*
-~~Strikethrough text~~
+**Bolded text**  
+*Italicized text*  
+~~Strikethrough text~~  
 
 .....
 
