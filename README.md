@@ -11,13 +11,13 @@ Digital Multimedia Challenge 2
 <p>Link to an image located on the web</p>
 <p>Code block</p>
 <p><code>
-  ```javascript
+  "```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```</code></p>
+```"</code></p>
 
 
 <p><blockquote>Here is a block quote</blockquote></p>
