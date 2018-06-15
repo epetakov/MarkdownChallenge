@@ -30,15 +30,15 @@ function fancyAlert(arg) {
 >In
 >Blockquote
 
-* Bulleted list
-* Bulleted list
-* Bulleted list
+* Bulleted 
+* List
+* Here
 
 <p>Numbered list</p>
 1. First2. Second3. Third
 
 
-| Tables        | Are           | Cool  |
+| Here's        | A             | Table |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
@@ -46,8 +46,8 @@ function fancyAlert(arg) {
 
 **Bolded text**
 *Italicized text*
-<p><del>Strikethrough text</del></p>
+~~Strikethrough text~~
 
-<hr>
+.....
 
 
