@@ -2,13 +2,13 @@
 Digital Multimedia Challenge 2
 
 
-<h2>Here is an H2 sized header</h2>
-<h4>Here is an H4 sized header</h4>
+<h2>H2 header</h2>
+<h4>H4 header</h4>
 <p><a href="http://www.etymonline.com">My favorite website</a></p>
 
-<p>Link to the other markdown page</p>
-<p>Link to an image that is a file in the directory</p>
-<p>Link to an image located on the web</p>
+<p>The other markdown page</p>
+<p>An image that is a file in the directory</p>
+<p>An image located on the web</p>
 
 <div class="highlighter-rouge">
 <div class="highlight">
@@ -24,7 +24,7 @@ function fancyAlert(arg) {
 </code></pre></div></div>
 
 
-<p><blockquote>Here is a block quote</blockquote></p>
+<p><blockquote>Block quote</blockquote></p>
 
 <p>
 <ul>
@@ -35,9 +35,20 @@ function fancyAlert(arg) {
   </ul></p>
 Numbered list
 Table
-<strong>Bolded text</strong>
-<em>Italicized text</em>
-<del>Strikethrough text</del>
+<table>
+  <thead>
+    <tr>
+      <th>Column Header 1</th>
+      <th>Column Hedder 2</th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>Cell 1</tr>
+   <tr>Cell 2</tr>
+  </tbody>
+<p><strong>Bolded text</strong></p>
+<p><em>Italicized text</em></p>
+<p><del>Strikethrough text</del></p>
 
 <hr>
 
