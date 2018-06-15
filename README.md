@@ -40,12 +40,15 @@ Table
   <thead>
     <tr>
       <th>Column Header 1</th>
-      <th>Column Hedder 2</th>
+      <th>Column Header 2</th>
    </tr>
  </thead>
  <tbody>
-   <tr>Cell 1</tr>
-   <tr>Cell 2</tr>
+   <tr>
+     <td>
+     Cell 1</td>
+   <td>Cell 2</td>
+   </tr>
   </tbody>
  </table>
 <p><strong>Bolded text</strong></p>
