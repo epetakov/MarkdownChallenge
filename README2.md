@@ -1,1 +1,1 @@
-[Link to README](http://www.github.com/epetakov/MarkdownChallenge/README.md)
+[Link to README](README.md)
