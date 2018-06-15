@@ -2,13 +2,13 @@
 Digital Multimedia Challenge 2
 
 
-# H2 header#
-<h4>H4 header</h4>
-<p><a href="http://www.etymonline.com">My favorite website</a></p>
+# H2 header  
+#### H4 header  
+[example link]("http://www.etymonline.com/ "My favorite website")
 
-<p>The other markdown page</p>
-<p>An image that is a file in the directory</p>
-<p>An image located on the web</p>
+The other markdown page  
+An image that is a file in the directory  
+An image located on the web  
 
 <div class="highlighter-rouge">
 <div class="highlight">
@@ -24,13 +24,14 @@ function fancyAlert(arg) {
 </code></pre></div></div>
 
 
-<p><blockquote>Block quote</blockquote></p>
+> ## Blockquote  
+>Stuff
+>In
+>Blockquote
 
-<p>
-
-*Bulleted list
-*Bulleted list
-*Bulleted list
+* Bulleted list
+* Bulleted list
+* Bulleted list
 
 <p>Numbered list</p>
 1.
