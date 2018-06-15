@@ -4,11 +4,13 @@ Digital Multimedia Challenge 2
 
 # H2 header  
 #### H4 header  
-[example link]("http://www.etymonline.com/ "My favorite website")
+[My favorite website](http://www.etymonline.com/)  
 
-The other markdown page  
+[The other markdown page](http://www.github.com/epetakov/MarkdownChallenge/README2.md)
+
 An image that is a file in the directory  
-An image located on the web  
+An image from the web:   
+![](http://commonmark.org/help/images/favicon.png)  
 
 <div class="highlighter-rouge">
 <div class="highlight">
@@ -34,9 +36,9 @@ function fancyAlert(arg) {
 * Bulleted list
 
 <p>Numbered list</p>
-1.
-2.
-3.
+1. First 
+2. Second
+3. Third
 
 
 Table
@@ -61,5 +63,4 @@ Table
 
 <hr>
 
-![](http://commonmark.org/help/images/favicon.png)
 
