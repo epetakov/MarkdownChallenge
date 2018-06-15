@@ -35,29 +35,17 @@ function fancyAlert(arg) {
 * Bulleted list
 
 <p>Numbered list</p>
-1. First 
-2. Second
-3. Third
+1. First2. Second3. Third
 
 
-Table
-<table>
-  <thead>
-    <tr>
-      <th>Column Header 1</th>
-      <th>Column Header 2</th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td>
-     Cell 1</td>
-   <td>Cell 2</td>
-   </tr>
-  </tbody>
- </table>
-<p><strong>Bolded text</strong></p>
-<p><em>Italicized text</em></p>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+**Bolded text**
+*Italicized text*
 <p><del>Strikethrough text</del></p>
 
 <hr>
