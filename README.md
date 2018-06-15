@@ -33,7 +33,8 @@ function fancyAlert(arg) {
 <li>Bulleted list</li>
   
   </ul></p>
-Numbered list
+<p>Numbered list</p>
+
 Table
 <table>
   <thead>
@@ -46,6 +47,7 @@ Table
    <tr>Cell 1</tr>
    <tr>Cell 2</tr>
   </tbody>
+ </table>
 <p><strong>Bolded text</strong></p>
 <p><em>Italicized text</em></p>
 <p><del>Strikethrough text</del></p>
