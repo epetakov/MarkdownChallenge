@@ -27,12 +27,11 @@ function fancyAlert(arg) {
 <p><blockquote>Block quote</blockquote></p>
 
 <p>
-<ul>
-<li>Bulleted list</li>
-<li>Bulleted list</li>
-<li>Bulleted list</li>
-  
-  </ul></p>
+
+*Bulleted list
+*Bulleted list
+*Bulleted list
+
 <p>Numbered list</p>
 1.
 2.
