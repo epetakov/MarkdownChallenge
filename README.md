@@ -33,8 +33,9 @@ function fancyAlert(arg) {
 * List
 * Here
 
-<p>Numbered list</p>
-1. First2. Second3. Third
+1. First ordered list item
+2. Another item
+3. Another
 
 
 | Here's        | A             | Table |
@@ -47,6 +48,6 @@ function fancyAlert(arg) {
 *Italicized text*  
 ~~Strikethrough text~~  
 
-.....
+-----
 
 
